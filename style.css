@@ -457,3 +457,11 @@ font-family: 'Inter', sans-serif;
     color: #ffffff !important;
     width: 320px; /* Mantém a largura exata dos botões de cima */
 }
+
+.mapa{
+    margin-top: 50px;
+    width:100%
+}
+.mapa img{
+    width: 100%;
+}
